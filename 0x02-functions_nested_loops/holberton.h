@@ -1,7 +1,10 @@
+#ifndef HOLBERTON_H
+#define HOLBERTON_H
+
 /**
  * _putchar - putchar
  */
-int _puthar(char c);
+int _putchar(char);
 
 /**
  * print alphabet in lowercase
