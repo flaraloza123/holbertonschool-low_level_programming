@@ -24,6 +24,11 @@ int _islower(int c);
 /**
  * check for alphabetic character
  */
+int _isalpha(int c);
+
+/**
+ * print the sign of a number
+ */
 int print_sign(int n);
 
 /**
