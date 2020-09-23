@@ -1,4 +1,4 @@
-#include "holbeton.c"
+#include "holberton.h"
 
 /**
  * _isalpha - checks to see if c is a letter
